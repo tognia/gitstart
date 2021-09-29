@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 You can have peace in the mist of your storm
+=======
+You can have peace in midst of your storm
+>>>>>>> 98614050460ebb9067eb2d62c09ebfa15453b8c7
